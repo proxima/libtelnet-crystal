@@ -6,4 +6,7 @@ authors:
 
 crystal: 0.26.1
 
+libraries:
+  libtelnet: ~> 2.0.0
+
 license: MIT
